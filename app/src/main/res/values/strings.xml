@@ -7,4 +7,18 @@
     <string name="sdileny_text">%1$s: %2$.1f °C — zapsáno v MeteoDeníku</string>
     <string name="teplota_format">%1$.1f °C</string>
     <string name="teplota_chybi">Teplota není k dispozici</string>
+    <string name="poloha_povolena">Poloha je povolena</string>
+    <string name="poloha_bez_opravneni">Aplikace nemá oprávnění k poloze. Povolte jej v nastavení systému.</string>
+    <string name="otevrit_nastaveni">Otevřít nastavení</string>
+    <string name="poloha_vysvetleni">Pro zobrazení předpovědi počasí pro vaše místo je nutný přístup k poloze.</string>
+    <string name="poloha_pokracovat">Pokračovat</string>
+    <string name="poloha_zjistit">Zjistit polohu</string>
+    <string name="titulek_seznam_mest">Moje města — %s</string>
+
+    <plurals name="pocet_zaznamu">
+        <item quantity="one">%d záznam</item>
+        <item quantity="few">%d záznamy</item>
+        <item quantity="many">%d záznamu</item>
+        <item quantity="other">%d záznamů</item>
+    </plurals>
 </resources>

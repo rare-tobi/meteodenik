@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeteoDenik</string>
+    <string name="title_activity_detail_mesta">City Detail</string>
+    <string name="otevri_detail">Open city detail</string>
+    <string name="mesto_nezname">Unknown city</string>
+    <string name="sdilet_zaznam">Share entry</string>
+    <string name="sdileny_text">%1$s: %2$.1f °C — recorded in MeteoDeník</string>
+    <string name="teplota_format">%1$.1f °C</string>
+    <string name="teplota_chybi">Temperature is not available</string>
+    <string name="poloha_povolena">Location is allowed</string>
+    <string name="poloha_bez_opravneni">The app does not have location permission. Please enable it in system settings.</string>
+    <string name="otevrit_nastaveni">Open settings</string>
+    <string name="poloha_vysvetleni">Location access is required to display weather forecast for your area.</string>
+    <string name="poloha_pokracovat">Continue</string>
+    <string name="poloha_zjistit">Check location</string>
+    <string name="titulek_seznam_mest">My cities — %s</string>
+
+    <plurals name="pocet_zaznamu">
+        <item quantity="one">%d record</item>
+        <item quantity="other">%d records</item>
+    </plurals>
+</resources>
