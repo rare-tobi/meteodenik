@@ -30,6 +30,12 @@
     <!-- Texty pro Cvičení 7.2 -->
     <string name="mesto_duplikat">Toto město už v seznamu je</string>
     <string name="mesto_smazat_popis">Smazat město %1$s</string>
+    <!-- Texty pro RozbityMestaSeznam (Cvičení 7.6) -->
+    <string name="debug_mesto_label">Název města</string>
+    <string name="debug_pridat">Přidat</string>
+    <string name="debug_pocet_mest">Počet měst: %1$d</string>
+    <string name="debug_smazat">Smazat</string>
+    <string name="debug_teplota_poznamka">Teplotu doplníme v lekci 11</string>
 
 
     <plurals name="pocet_zaznamu">

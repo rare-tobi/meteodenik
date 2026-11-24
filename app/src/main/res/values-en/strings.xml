@@ -30,6 +30,12 @@
     <string name="vizitka_email_popis">Email address: %1$s</string>
     <string name="mesto_duplikat">This city is already in the list</string>
     <string name="mesto_smazat_popis">Delete city %1$s</string>
+    <!-- Texty pro RozbityMestaSeznam (Cvičení 7.6) -->
+    <string name="debug_mesto_label">City name</string>
+    <string name="debug_pridat">Add</string>
+    <string name="debug_pocet_mest">Number of cities: %1$d</string>
+    <string name="debug_smazat">Delete</string>
+    <string name="debug_teplota_poznamka">Temperature will be added in lesson 11</string>
 
 
     <plurals name="pocet_zaznamu">
