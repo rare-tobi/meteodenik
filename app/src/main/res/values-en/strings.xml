@@ -15,6 +15,16 @@
     <string name="poloha_pokracovat">Continue</string>
     <string name="poloha_zjistit">Check location</string>
     <string name="titulek_seznam_mest">My cities — %s</string>
+    <!-- Strings for city list and add city screen -->
+    <string name="mesta_titulek">My cities</string>
+    <string name="mesto_pole_label">City name</string>
+    <string name="mesto_pridat">Add</string>
+    <string name="mesto_teplota">%1$.1f °C</string>
+    <string name="mesto_smazat">Delete city</string>
+    <string name="mesto_prazdny_seznam">You haven\'t added any cities yet.</string>
+    <string name="mesto_chyba_prazdny_nazev">Enter a city name</string>
+    <string name="poloha_povolena_souradnice">Your location: %1$.4f lat, %2$.4f lon</string>
+    <string name="poloha_nedostupna">Location is permitted, but the location fix is currently unavailable.</string>
 
     <plurals name="pocet_zaznamu">
         <item quantity="one">%d record</item>

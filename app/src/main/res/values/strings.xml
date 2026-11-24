@@ -14,6 +14,16 @@
     <string name="poloha_pokracovat">Pokračovat</string>
     <string name="poloha_zjistit">Zjistit polohu</string>
     <string name="titulek_seznam_mest">Moje města — %s</string>
+    <!-- Texty pro obrazovku přidávání a seznamu měst -->
+    <string name="mesta_titulek">Moje města</string>
+    <string name="mesto_pole_label">Název města</string>
+    <string name="mesto_pridat">Přidat</string>
+    <string name="mesto_teplota">%1$.1f °C</string>
+    <string name="mesto_smazat">Smazat město</string>
+    <string name="mesto_prazdny_seznam">Zatím jste nepřidali žádné město.</string>
+    <string name="mesto_chyba_prazdny_nazev">Zadejte název města</string>
+    <string name="poloha_povolena_souradnice">Vaše poloha: %1$.4f s. š., %2$.4f v. d.</string>
+    <string name="poloha_nedostupna">Poloha byla povolena, ale signál polohy je momentálně nedostupný.</string>
 
     <plurals name="pocet_zaznamu">
         <item quantity="one">%d záznam</item>
